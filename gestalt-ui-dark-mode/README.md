@@ -1,0 +1,3 @@
+🔒 Confidentiality Notice
+
+All project names, component identifiers, database schemas, and business logic terminology in this technical vault have been fully anonymized and abstracted. The cases presented here reflect my technical methodology, research, and engineering impact, not the proprietary intellectual property of past clients. All metrics presented (e.g., bundle reduction, performance scores) are accurate results of my engineering work.

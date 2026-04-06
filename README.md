@@ -14,6 +14,8 @@ The goal of this vault is to demonstrate not just how I code, but how I think an
 
 **Impact:** A production-ready blueprint for secure, concurrent enterprise operations and real-time communications.
 
+**Reference:** [View Implementation Case Study](./system-design/venti-saas-architecture/) | [Source Code](https://github.com/rennyluzardo/venti)
+
 ### 🍽️ System Design: miPOS — Restaurant OS
 
 **Problem:** High operational friction in the restaurant industry due to siloed delivery apps (Rappi/Uber Eats), isolated POS terminals, and manual inventory sync.
@@ -32,6 +34,8 @@ The goal of this vault is to demonstrate not just how I code, but how I think an
 
 **Impact:** Zero-downtime maintenance of industrial operations while eliminating critical security vulnerabilities.
 
+**Reference:** [View Implementation Case Study](./mobile-engineering/legacy-mobile-resilience-study/)
+
 ### ⚡ Frontend: High-Performance Bundle Strategy
 
 **Problem:** Monolithic enterprise platform with a >2MB initial bundle size affecting Core Web Vitals.
@@ -40,6 +44,8 @@ The goal of this vault is to demonstrate not just how I code, but how I think an
 
 **Impact:** Projected reduction of 60% in initial load time and a +40 point increase in Lighthouse scores.
 
+**Reference:** [View Implementation Case Study](./frontend-architecture/high-performance-bundle-strategy/)
+
 ### 🎨 Frontend: Gestalt UI & Accessible Design
 
 **Problem:** High cognitive load and visual fatigue in data-dense administrative dashboards.
@@ -47,6 +53,8 @@ The goal of this vault is to demonstrate not just how I code, but how I think an
 **Solution:** Theme system based on Gestalt Psychology principles and WCAG 2.1 AAA contrast standards.
 
 **Impact:** 6.5:1 contrast ratios and optimized information density for power users.
+
+**Reference:** [View Implementation Case Study](./frontend-architecture/gestalt-ui-dark-mode/)
 
 ## 🛠️ Tech Stack & Patterns
 
